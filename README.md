@@ -1,3 +1,3 @@
 # bestrepoever
 
-System.out.println("Strawberry");
+System.out.println("Avocado");
